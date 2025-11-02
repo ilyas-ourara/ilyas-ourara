@@ -132,7 +132,7 @@ print(f"Hi! I'm {me.name}, {me.role}")
 graph TD
     A[Current Focus] --> B[Computer Vision]
     A --> C[NLP & LLMs]
-    A --> D[MLOps]
+  
     
     B --> E[Real-time Object Detection]
     B --> F[3D Vision & Segmentation]
