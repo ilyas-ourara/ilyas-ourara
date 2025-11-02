@@ -56,7 +56,6 @@ print(f"Hi! I'm {me.name}, {me.role}")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### AI/ML & Data Science
@@ -71,8 +70,6 @@ print(f"Hi! I'm {me.name}, {me.role}")
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,29 +81,7 @@ print(f"Hi! I'm {me.name}, {me.role}")
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%"/>
-</div>
-
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![GLANCY 3D](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=glancy-3d-volume-estimation&theme=tokyonight&hide_border=true)](https://github.com/YOUR-USERNAME/glancy-3d-volume-estimation)
-[![WatiKati Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=watikati-ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/YOUR-USERNAME/watikati-ai-chatbot)
-
-[![IRMF Brain Imaging](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=irmf-brain-imaging&theme=tokyonight&hide_border=true)](https://github.com/YOUR-USERNAME/irmf-brain-imaging)
-[![Arteka PPE Detection](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=arteka-ppe-detection&theme=tokyonight&hide_border=true)](https://github.com/YOUR-USERNAME/arteka-ppe-detection)
 
 </div>
 
