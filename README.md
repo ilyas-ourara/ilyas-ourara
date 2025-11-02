@@ -19,17 +19,7 @@ class IlyasOurara:
         self.education = "Master 2 Smart IoT + Dual Degree AI"
         self.current_work = "Data Science Intern @ GLANCY 3D"
         
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL", "C++", "PHP", "JavaScript"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Keras", "Scikit-Learn"],
-            "computer_vision": ["OpenCV", "YOLO", "Detectron2", "MediaPipe"],
-            "nlp": ["LangChain", "Transformers", "Spacy", "NLTK"],
-            "frameworks": ["Streamlit", "FastAPI", "Flask", "Next.js"],
-            "cloud": ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"],
-            "tools": ["Git", "Jupyter", "VS Code", "Postman"]
-        }
+  
     
     def current_focus(self):
         return [
