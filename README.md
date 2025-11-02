@@ -140,13 +140,12 @@ graph TD
     C --> G[RAG Systems]
     C --> H[Fine-tuning LLMs]
     
-    D --> I[Model Deployment]
-    D --> J[CI/CD for ML]
+ 
     
     style A fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#4CAF50,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FF9800,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#9C27B0,stroke:#fff,stroke-width:2px,color:#fff
+  
 ```
 
 </div>
