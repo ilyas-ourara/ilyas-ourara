@@ -80,14 +80,13 @@ print(f"Hi! I'm {me.name}, {me.role}")
 
 </div>
 
-### 🏆 Project Highlights
+### 💼 Professional Experience
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 📦 **GLANCY 3D** | AI-powered package volume estimation system | Python, TensorFlow, OpenCV, Streamlit | 🔄 In Progress |
-| 🤖 **WatiKati** | Administrative AI chatbot (Hackathon Winner) | Python, Gemini API, RAG, LangChain | ✅ Completed |
-| 🧠 **IRMF Brain Imaging** | 3D brain visualization with tumor detection | TensorFlow, Computer Vision, 3D Processing | ✅ Completed |
-| 🦺 **Arteka PPE Detection** | Real-time safety equipment monitoring | OpenCV, YOLO, Real-time Processing | ✅ Completed |
+| 🏢 Company | 📋 Role | 📅 Period | 📍 Location | 🎯 Key Contributions |
+|------------|---------|-----------|-------------|---------------------|
+| **GLANCY 3D** | Data Science Intern | Sept 2025 - Present | Saint-Ouen, France | • Developed AI package volume estimation system<br>• Implemented YOLO detection & segmentation models<br>• Created Streamlit interface for real-time visualization |
+| **École 1337 / UM6P** | Hackathon Participant | May 22-25, 2025 | Benguerir, Morocco |• Built WatiKati administrative AI chatbot<br>• Integrated Gemini API with RAG system |
+| **Artéka** | Data Science Intern | July - Sept 2024 | Amiens, France | • Led data preparation team for sports AI project<br>• Developed automated data annotation solution<br>• Implemented real-time PPE detection system |
 
 ---
 
