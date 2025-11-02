@@ -2,14 +2,14 @@
   
 # _Ourara_
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer+%26+Computer+Vision+Specialist;Python+Developer+%26+Tech+Innovator;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-    
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR-PORTFOLIO)
-    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR-TWITTER)
-  </div>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR-PORTFOLIO)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR-TWITTER)
+</div>
 </div>
 
 ---
