@@ -1,6 +1,6 @@
 <div align="center">
   
-# Ilyas Ourara!
+# Ourara
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer+%26+Computer+Vision+Specialist;Data+Science+%26+Machine+Learning+Expert;Python+Developer+%26+Tech+Innovator;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
