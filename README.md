@@ -141,14 +141,6 @@ graph TD
 ---
 
 
-### 💬 Ask me about
-**Computer Vision** • **Deep Learning** • **AI Applications** • **Data Science** • **Python Development**
-
-### 📧 Professional Inquiries
-🎯 **Available for Final Year Project (PFE)** starting March 2026  
-💼 **Open to collaboration** on AI/ML projects  
-🌍 **International opportunities** welcomed  
-
 </div>
 
 ---
