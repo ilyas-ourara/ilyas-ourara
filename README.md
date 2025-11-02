@@ -92,16 +92,6 @@ print(f"Hi! I'm {me.name}, {me.role}")
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=tokyonight" alt="Profile Summary"/>
-
-</div>
 
 ---
 
