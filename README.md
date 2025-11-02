@@ -96,19 +96,6 @@ print(f"Hi! I'm {me.name}, {me.role}")
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 Achievement | 📅 Date | 🏢 Organization |
-|----------------|---------|-----------------|
-| 🥇 **HACK AI Hackathon Winner** | May 2025 | École 1337 / UM6P |
-| 🎓 **Dual Degree Program** | 2024-2026 | France-Morocco |
-| 💼 **Data Science Internship** | Sept 2025 | GLANCY 3D |
-| 🧠 **AI Specialization** | 2024-2025 | Master Smart IoT |
-
-</div>
-
 ---
 
 ## 📈 Coding Activity
