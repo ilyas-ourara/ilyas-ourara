@@ -36,7 +36,7 @@ class IlyasOurara:
             "🔍 Computer Vision for Real-time Applications",
             "🤖 Large Language Models & RAG Systems", 
             "📊 Advanced Data Science Techniques",
-            "🚀 MLOps & AI System Deployment"
+            
         ]
     
     def goals_2026(self):
