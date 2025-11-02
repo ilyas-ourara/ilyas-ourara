@@ -180,19 +180,6 @@ graph TD
 
 ---
 
-<div align="center">
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Listening to
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR-SPOTIFY-ID)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
